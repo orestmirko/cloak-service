@@ -13,7 +13,8 @@ Go to root folder of the app.
 
 1. Install all required packages
 
-```npm install
+```
+npm install
 ```
 
 2. Build app:
